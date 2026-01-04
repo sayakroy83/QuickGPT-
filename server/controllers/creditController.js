@@ -2,7 +2,7 @@ import Transaction from "../models/Transaction.js";
 import Stripe from "stripe";
 
 const plans = [
-     {
+    {
         _id: "basic",
         name: "Basic",
         price: 10,
