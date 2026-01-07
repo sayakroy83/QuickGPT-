@@ -40,13 +40,17 @@ cd QuickGPT-
 ```
 #Server setup
 
-cd server,
-npm install,
-npm run server,
+cd server
+
+npm install
+
+npm run server
 
 
 #Client setup
 
-cd client,
-npm install,
-npm run dev,
+cd client
+
+npm install
+
+npm run dev
