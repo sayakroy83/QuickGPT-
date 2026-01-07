@@ -38,14 +38,14 @@ You can deploy the frontend and backend together to run your own QuickGPT instan
 git clone https://github.com/sayakroy83/QuickGPT-.git
 cd QuickGPT-
 ```
-##Server setup
+#Server setup
 
 cd server
 npm install
 npm run server
 
 
-##Client setup
+#Client setup
 
 cd ../client
 npm install
